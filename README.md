@@ -1,5 +1,5 @@
 # unsidae
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=undisae[언제시간돼?]&fontSize=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=undisae[언제시간돼?]&fontSize=80" />
 <div align="center">
 	<span>Platforms & Languages</span>
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
